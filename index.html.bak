@@ -7,7 +7,7 @@
 <body>
 
 <h1>Hello world!</h1>
-<img src="https://images.unsplash.com/photo-1735864203060-012cbfbdb3a4?q=80&w=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="beach" title="beach image" width="600" height="400" >
+<img src="beach.avif" alt="beach" title="beach image" width="600" height="400" >
 <p>This is the first file in my new Git Repo.</p>
 <p>A new line in our file!</p>
 </body>
